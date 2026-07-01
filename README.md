@@ -90,6 +90,6 @@ This project is licensed under the MIT License.
 ---
 
 ## 👤 Author
-Mozeel Vanwani | IIT Kharagpur CSE
+Pulkit Mohan | IIT Kharagpur CH
 
-Email: [vanwani.mozeel@gmail.com]
+Email: [pulkitmohan7@gmail.com]
